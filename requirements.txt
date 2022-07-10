@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+scikit-image==0.19.2
+torch==1.11.0
+torchvision==0.12.0
